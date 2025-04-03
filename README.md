@@ -8,6 +8,8 @@ An all-in-one event management platform designed to seamlessly organize and mana
 
 ## Discription -
 Managing events manually or using multiple disconnected tools results in miscommunication, poor coordination, and inefficient execution. Event organizers and individuals require a robust platform that enables seamless planning, vendor management, real-time notifications, budget tracking, and RSVP management. The proposed Event Management Website will serve as a one-stop solution, allowing users to create, plan, and execute events efficiently.
+
+
 🚀 Features
 
 
