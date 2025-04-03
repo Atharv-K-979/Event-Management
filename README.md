@@ -26,7 +26,7 @@ Managing events manually or using multiple disconnected tools results in miscomm
 
 Images :
 
-![](Event%20management/Website%20Images/01.jpg)
+![](Event%20management/Website%20Images/final.jpg)
 
 
 ![](Event%20management/Website%20Images/02.jpg)
@@ -35,7 +35,7 @@ Images :
 ![](Event%20management/Website%20Images/04.jpg)
 
 
-![](Event%20management/Website%20Images/05.jpg)
+![](Event%20management/Website%20Images/06.jpg)
 
 
 
